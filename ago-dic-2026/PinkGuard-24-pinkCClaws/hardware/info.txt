@@ -1,0 +1,4 @@
+Carpeta destinada a las conexiones de hardware, tabla hal etc
+
+
+ver 1
